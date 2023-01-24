@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    background-color: aqua;
+
+}
+
+
+
+.btn {
+    padding-left: 12px;
+    margin-left: 401px;
+}
+
+.body {
+    background-color: aqua;
+}
+
+.text {
+    color: brown;
+}
